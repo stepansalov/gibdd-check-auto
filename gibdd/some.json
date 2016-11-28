@@ -1,0 +1,39 @@
+{"RequestResult":
+  {"ownershipPeriods":
+    {"ownershipPeriod":
+      [
+        {"simplePersonType":"Natural",
+          "from":"2010-10-27T00:00:00.000+04:00",
+          "to":"2010-10-27T00:00:00.000+04:00"},
+          {"simplePersonType":"Natural",
+            "from":"2012-09-03T00:00:00.000+04:00",
+            "to":"2012-09-06T00:00:00.000+04:00"},
+            {"simplePersonType":"Natural",
+              "from":"2012-09-06T00:00:00.000+04:00",
+              "to":"2012-09-06T00:00:00.000+04:00"},
+              {"simplePersonType":"Natural",
+                "from":"2012-09-06T00:00:00.000+04:00",
+                "to":"2015-10-27T00:00:00.000+03:00"},
+                {"simplePersonType":"Natural",
+                  "from":"2015-10-27T00:00:00.000+03:00",
+                  "to":"2016-01-28T00:00:00.000+03:00"},
+                  {"simplePersonType":"Natural",
+                    "from":"2016-01-28T00:00:00.000+03:00"}]},
+
+                    "vehiclePassport":{},
+                    "vehicle":
+                    {"engineVolume":"2500.0",
+                      "color":"▒▒▒▒▒-▒▒▒▒▒▒▒",
+                      "bodyNumber":"J▒▒▒▒262102070326  JMZGG128281724038",
+                      "year":"2007",
+                      "engineNumber":"0427091",
+                      "vin":"J▒▒▒▒262102070326"
+                      ,"model":"L▒▒US IS250",
+                      "category":"▒",
+                      "type":"23",
+                      "powerHp":"208",
+                      "powerKwt":"152.94"}},
+                      "vin":"262102070326",
+                      "regnum":null,
+                      "message":"ver.3.1",
+                      "status":200}
